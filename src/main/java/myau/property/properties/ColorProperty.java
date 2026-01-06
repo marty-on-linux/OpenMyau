@@ -3,7 +3,6 @@ package myau.property.properties;
 import com.google.gson.JsonObject;
 import myau.property.Property;
 
-import java.awt.*;
 import java.util.function.BooleanSupplier;
 
 public class ColorProperty extends Property<Integer> {
